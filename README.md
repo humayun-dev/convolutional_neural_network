@@ -5,6 +5,7 @@
            <li>Padding - valid and same</li>
            <li>Strides</li>
            <li>Pooling</li>
+           <li>LENET-5 CNN Architecture using mnist dataset</li>
         </ol>
 </ol>
 
