@@ -10,6 +10,7 @@
            <li>Cat and Dog image classification - CNN </li>
            <li>Data Augmentation</li>
            <li>Pre-trained Model ResNET </li>
+           <li>Non-sequential Neural Network Basic Demo</li>
         </ol>
 </ol>
 
